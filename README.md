@@ -8,4 +8,4 @@
 | Concurrency | auto workers |
 | Download only | true |
 | Run | #95 |
-| Status | 🔄 Crawling in progress… |
+| Status | ✅ Crawl complete |
